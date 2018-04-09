@@ -6,5 +6,6 @@ int main(int argc, char const *argv[])
 	char buff[]="hello linux";
 	printf("%s\n",buff);
 	//write(1,buff,sizeof(buff));
+	//while(1);
 	return 0;
 }
